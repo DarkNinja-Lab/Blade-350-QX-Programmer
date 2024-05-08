@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://www.bedienungsanleitu.ng/thumbs/brands/l/1882-blade_logo.webp" width="350">
+  <img src="https://www.digitaltrends.com/wp-content/uploads/2014/01/BLH7800_accessories.jpg?fit=1500%2C1000&p=1" width="350">
 
 
 
@@ -22,8 +22,7 @@ Firmware Version Release & 2.0
 
 `Version_2.0.bin`  [Here](https://github.com/DarkNinja-Lab/Ender-3-4.2.2-Firmware/releases/download/Release/Ender3_4.2.2-HappyNET_Firmware.bin)
 
-<p align="center">
-  <img src="https://www.digitaltrends.com/wp-content/uploads/2014/01/BLH7800_accessories.jpg?fit=1500%2C1000&p=1" width="350">
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
